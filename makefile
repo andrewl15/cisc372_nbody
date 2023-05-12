@@ -14,5 +14,4 @@ compute.o: compute.cu config.h vector.h $(ALWAYS_REBUILD)
 	$(NVCC) $(NVCCFLAGS) $(FLAGS) -c $<
 
 clean:
-	rm -f *.o nbody
-
+	rm -f *.o nbody 

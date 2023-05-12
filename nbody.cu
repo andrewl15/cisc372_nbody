@@ -1,3 +1,4 @@
+//Andrew Long and Dhruv Patel
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
